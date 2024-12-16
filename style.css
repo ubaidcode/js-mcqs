@@ -1,0 +1,29 @@
+h1.heading{
+font-weight: bolder;
+text-decoration: underline;
+font-style: oblique;
+font-size: 39px;
+}
+
+
+.padding{
+    padding: 50px;
+}
+.buttonmar{
+    margin: 5px;
+    margin-right: 20px;
+    background-color: black;
+    color: white;
+  font-size: 16px;
+  font-style: oblique;
+  width: 90px;
+height: 25px;
+border-radius: 9px;
+border: 2px solid red;
+text-shadow: 30px red;
+}
+.font-style{
+    font-style: oblique;
+
+}
+
